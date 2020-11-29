@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://fvcproductions.com"><img src="https://media.giphy.com/media/1g2JvdxA9n4e2pO8ar/giphy.gif" title="FVCproductions" alt="FVCproductions"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+<!-- [![FVCproductions](https://media.giphy.com/media/1g2JvdxA9n4e2pO8ar/giphy.gif)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
