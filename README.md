@@ -1,2 +1,2 @@
-<img src="https://media.giphy.com/media/IrqWkgAIBLIE4Yj0p3/giphy.gif" width="100%" title="" alt="">
+<img src="https://github.com/tohruniverse/banner-host/blob/main/TOHRUNIVERSE.gif" width="100%" title="" alt="">
 
