@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-<img align="left" src="https://media.giphy.com/media/1g2JvdxA9n4e2pO8ar/giphy.gif" title="FVCproductions" alt="FVCproductions">
-<img align="right" src="https://media.giphy.com/media/U6pqHW03YsB0vj4eQr/giphy.gif" title="FVCproductions" alt="FVCproductions">
-</div>
+
+<img src="https://i.imgur.com/DdtUXMk.gif" title="" alt="">
+
+
 
 
 # Repository Title Goes Here
