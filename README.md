@@ -1,4 +1,4 @@
-<img src="https://colorsinnovators.com/wp-content/uploads/2019/12/cockroach.gif" align="center" title="" alt="">
+<img src="https://github.com/tohruniverse/banner-host/blob/main/FullSizeRender.gif" align="left" title="" alt="">
 
 
 
